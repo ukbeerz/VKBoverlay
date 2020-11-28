@@ -132,7 +132,7 @@
 }
 
 .custom .bumper.left:after{
-    content: "BOOST";
+    content: "SCOOP";
     left: 68px;
 }
 
